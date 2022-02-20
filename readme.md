@@ -44,8 +44,8 @@ Our model analysis help clients identify the most cost-effective mitigation proj
 
 - To achieve the 2050 carbon neutrality, POSCO's steel sector emissions need to fall by 51% by 2030 and 98% by 2050. The Blast furnace was phased out and replaced by scrap and hydrogen-based DRI steel production.
 
-- Coal contributes about 85% of the energy used in South Korea’s steel sector today. In the 2050 carbon neutrality scenario, this share drops to 40% in 2030. Coal is completely phased out of steel production in South Korea by 2050.
+- Coal contributes about 85% of the energy used in POSCO’s steel sector today. In the 2050 carbon neutrality scenario, this share drops to 40% in 2030. Coal is completely phased out of steel production in South Korea by 2050.
 
-- Our 2050 carbon neutrality scenario relies on a large scale up of renewables capacity: 56% of electricity production in 2030 is clean. In 2050, 100% of electricity production is clean. The 1.5°C scenario also shows an increase in hydrogen use, from 0.0 EJ in use today to 0.14 EJ in 2050. In the 2050 carbon neutrality scenario, 76% of hydrogen produced in South Korea is green and 23% is blue by 2050.
+- Our 2050 carbon neutrality scenario relies on a large scale up of renewables capacity: 56% of electricity production in 2030 is clean. In 2050, 100% of electricity production is clean. The 1.5°C scenario also shows an increase in hydrogen use, from 0.0 EJ in use today to 0.14 EJ in 2050. In the 2050 carbon neutrality scenario, 76% of hydrogen produced in POSCO is green and 23% is blue by 2050.
 
-- As the world’s sixth largest steelmaker with ambitious climate commitments and policies at government and company level, South Korea is well positioned to help accelerate the global steel sector transition.
+- As the world’s sixth largest steelmaker with ambitious climate commitments and policies at government and company level, POSCO is well positioned to help accelerate the steel sector transition.
