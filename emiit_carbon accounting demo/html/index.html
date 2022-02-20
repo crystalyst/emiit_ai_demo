@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive dashboard</title>
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/index_style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <aside>
+        <div class="top">
+          <div class="logo">
+            <h6>Emiit.</h6>
+          </div>
+          <div class="close" id="close-btn">
+            <span class="material-icons-sharp">close</span>
+          </div>
+        </div>
+        <div class="sidebar">
+          <a href="" class="active">
+            <span class="material-icons-sharp"> home </span>
+            <h3>대시보드</h3>
+          </a>
+          <a href="./calculator.html">
+            <span class="material-icons-sharp"> calculate </span>
+            <h3>탄소 계산기</h3>
+          </a>
+          <a href="./chain.html">
+            <span class="material-icons-sharp"> link </span>
+            <h3>탄소 배출사슬</h3>
+          </a>
+          <a href="./scenario.html">
+            <span class="material-icons-sharp"> poll </span>
+            <h3>감축 시나리오</h3>
+          </a>
+          <a href="./report.html">
+            <span class="material-icons-sharp"> upload </span>
+            <h3>보고서</h3>
+          </a>
+          <a href="#">
+            <span class="material-icons-sharp"> settings </span>
+            <h3>환경설정</h3>
+          </a>
+          <a href="#">
+            <span class="material-icons-sharp"> campaign </span>
+            <h3>도움말</h3>
+          </a>
+          <a href="#">
+            <span class="material-icons-sharp"> logout </span>
+            <h3>나가기</h3>
+          </a>
+        </div>
+      </aside>
+      <!----------------- END OF ASIDE ----------------------->
+      <main>
+        <h1>주식회사 Acme</h1>
+
+        <div class="date">
+          <input type="date" />
+        </div>
+        <div class="contain_main">
+          <div class="dash_first_content">
+            <div class="first_title">
+              <h2>총 탄소배출량 및 Scope에 따른 배출량</h2>
+            </div>
+            <div class="insights">
+              <div class="total_carbon">
+                <div class="card_top">
+                  <span class="material-icons-sharp"> more_horiz </span>
+                  <div class="arrow_class">
+                    <span class="material-icons-sharp" id="total_arrow">
+                      expand_less
+                    </span>
+                    <div class="number">
+                      <p style="color: white">3%</p>
+                    </div>
+                  </div>
+                </div>
+                <h3 style="color: #b4c5e4">총 탄소배출량</h3>
+                <div class="together">
+                  <div class="total_number">
+                    <h1 style="color:white; font-weight: 600">253Kt</h1>
+                  </div>
+                  <span class="material-icons-sharp" id="lightbulb1">
+                    lightbulb
+                  </span>
+                </div>
+              </div>
+              <!------------------END OF TOTAL CARBON--------------->
+              <div class="scope1">
+                <div class="card_top">
+                  <span class="material-icons-sharp"> more_horiz </span>
+                  <div class="arrow_class">
+                    <span class="material-icons-sharp" id="scope1_arrow">
+                      expand_more
+                    </span>
+                    <div class="number">
+                      <p>3%</p>
+                    </div>
+                  </div>
+                </div>
+                <h3 style="color: #0c0c0c">Scope 1</h3>
+                <div class="together">
+                  <div class="total_number">
+                    <h1 style="font-weight: 600">250Kt</h1>
+                  </div>
+                  <span class="material-icons-sharp" id="lightbulb2">
+                    lightbulb
+                  </span>
+                </div>
+              </div>
+              <!------------------END OF SCOPE 1--------------->
+              <div class="scope2">
+                <div class="card_top">
+                  <span class="material-icons-sharp"> more_horiz </span>
+                  <div class="arrow_class">
+                    <span class="material-icons-sharp" id="scope2_arrow">
+                      expand_more
+                    </span>
+                    <div class="number">
+                      <p>3%</p>
+                    </div>
+                  </div>
+                </div>
+                <h3 style="color: #0c0c0c">Scope 2</h3>
+                <div class="together">
+                  <div class="total_number">
+                    <h1 style="font-weight: 600">1.4Kt</h1>
+                  </div>
+                  <span class="material-icons-sharp" id="lightbulb3">
+                    lightbulb
+                  </span>
+                </div>
+              </div>
+              <!------------------END OF SCOPE 2--------------->
+              <div class="scope3">
+                <div class="card_top">
+                  <span class="material-icons-sharp"> more_horiz </span>
+                  <div class="arrow_class">
+                    <span class="material-icons-sharp" id="scope3_arrow">
+                      expand_less
+                    </span>
+                    <div class="number">
+                      <p>3%</p>
+                    </div>
+                  </div>
+                </div>
+                <h3 style="color: #0c0c0c">Scope 3</h3>
+                <div class="together">
+                  <div class="total_number">
+                    <h1 style="font-weight: 600">1.6Kt</h1>
+                  </div>
+                  <span class="material-icons-sharp" id="lightbulb3">
+                    lightbulb
+                  </span>
+                </div>
+              </div>
+              <!------------------END OF SCOPE 3--------------->
+            </div>
+          </div>
+          <div class="dash_second_content">
+            <div class="second_title">
+              <h2>월별 탄소 배출량</h2>
+            </div>
+            <div class="second_insight">
+              <canvas id="first_chart"></canvas>
+              <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+              <script src="../js/first_chart.js"></script>
+            </div>
+          </div>
+        </div>
+        <!-------------------------END OF TWO CONTAINS ------------------>
+        <div class="low_contain">
+          <div class="dash_third_content">
+            <div class="third_title">
+              <h2>지역별 탄소 배출량</h2>
+            </div>
+            <div class="third_insight">
+              <canvas id="second_chart" height="100"></canvas>
+              <script src="../js/second_chart.js"></script>
+            </div>
+          </div>
+          <div class="dash_fourth_content">
+            <div class="fourth_title">
+              <h2>자원별 탄소 배출량</h2>
+            </div>
+            <div class="fourth_insight">
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.3/Chart.bundle.js"></script>
+              <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+              <canvas id="third_chart" height="160" width="500"></canvas>
+              <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+              <script src="../js/third_chart.js"></script>
+            </div>
+          </div>
+        </div>
+      </main>
+  </body>
+</html>
