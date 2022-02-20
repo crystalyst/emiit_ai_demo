@@ -1,4 +1,28 @@
-# README for Emiit AI Team's approach
+# README for Emiit Web Application Demo
+
+## Main components
+
+1. Carbon accounting : Visualization of Scope 1, 2, and 3 emissions gives you a glimpse of how much carbon emissions should be reduced. You can see carbon measurements by region, period, and resource at a glance.
+
+2. Carbon value-chain : Greenhouse gas emissions of all companies across the value chain can be divided in detail. If you enter the raw material's usage value, it changes to carbon emissions.
+
+- Emissions = Fuel × EF1
+- Emissions = Mass of CO2 that is emitted
+- Fuel = Mass or volume of fuel that is combusted
+- EF1 = CO2 emission factor per mass or volume unit
+- MT CO2e - Source: Green House Gas Protocol
+  Natural gas - 0.0531
+  Landfill gas - 0.0523
+  Liquefied petroleum gas - 0.057
+  #2 fuel oil - 0.0102
+  #6 fuel oil - 0.0113
+  Kerosene - 0.0102
+  
+3. Carbon emission scenarios
+
+4. Reporting : It uploads sustainability reports according to the report form of each institution such as TCFD, GRI, CDP, SASB, etc.
+
+# README for Emiit Scenario Analysis
 
 ## Short-term Analysis
 
@@ -49,3 +73,5 @@ Our model analysis help clients identify the most cost-effective mitigation proj
 - In order to decarbonize the BOSCO that meets 2050 carbon neutrality, it is necessary to rapidly expand DRI-based electric furnace technology (DRI-EAF-H2 and DRI-EAF-CCS) equipped with hydrogen based DRI and CCS, and phase-out blast Furnace without CCS. In addition, it is inevitable to expand the scrap-based electric arc furnace (EAF-scrap) along with the phase-out of the blast furnace to meet steel demand.
 
 - The reduction in steel output by improving material efficiency does not contribute significantly to the reduction in greenhouse gas emissions in the BOSCO. However, improving material efficiency reduces power generation and hydrogen production, which suggests that it is important to consider improving material efficiency in investment plans in the power and hydrogen production sectors to achieve carbon neutrality targets.
+
+
