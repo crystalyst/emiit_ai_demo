@@ -42,7 +42,7 @@ Having access to more data, we will allow us to make sure that our model perform
 
 Our model analysis help clients identify the most cost-effective mitigation projects and strategies like described below.
 
-- In terms of POSCO's 2050 carbon neutrality, improvement in the indirect emission sector is needed to offset much of the direct emission of carbon dioxide remaining in the steel sector in 2050.
+- In terms of POSCO's 2050 carbon neutrality, improvement in the indirect emission sector is needed to offset much of the direct emission of carbon emissions remaining in the POSCO in 2050.
 
 - Electrification of the POSCO's energy use and the increase in the proportion of hydrogen energy consumption will play a key role in decarbonization in the POSCO. This means that mid- to long-term investments must be made to increase renewable energy generation and green hydrogen production in order to achieve carbon neutrality.
 
