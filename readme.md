@@ -42,10 +42,10 @@ Having access to more data, we will allow us to make sure that our model perform
 
 Our model analysis help clients identify the most cost-effective mitigation projects and strategies like described below.
 
-- In terms of POSCO's 2050 carbon neutrality, improvement in the indirect emission sector is needed to offset much of the direct emission of carbon emissions remaining in the POSCO in 2050.
+- In terms of BOSCO's 2050 carbon neutrality, improvement in the indirect emission sector is needed to offset much of the direct emission of carbon emissions remaining in the BOSCO in 2050.
 
-- Electrification of the POSCO's energy use and the increase in the proportion of hydrogen energy consumption will play a key role in decarbonization in the POSCO. This means that mid- to long-term investments must be made to increase renewable energy generation and green hydrogen production in order to achieve carbon neutrality.
+- Electrification of the BOSCO's energy use and the increase in the proportion of hydrogen energy consumption will play a key role in decarbonization in the BOSCO. This means that mid- to long-term investments must be made to increase renewable energy generation and green hydrogen production in order to achieve carbon neutrality.
 
-- In order to decarbonize the POSCO that meets 2050 carbon neutrality, it is necessary to rapidly expand DRI-based electric furnace technology (DRI-EAF-H2 and DRI-EAF-CCS) equipped with hydrogen based DRI and CCS, and phase-out blast Furnace without CCS. In addition, it is inevitable to expand the scrap-based electric arc furnace (EAF-scrap) along with the phase-out of the blast furnace to meet steel demand.
+- In order to decarbonize the BOSCO that meets 2050 carbon neutrality, it is necessary to rapidly expand DRI-based electric furnace technology (DRI-EAF-H2 and DRI-EAF-CCS) equipped with hydrogen based DRI and CCS, and phase-out blast Furnace without CCS. In addition, it is inevitable to expand the scrap-based electric arc furnace (EAF-scrap) along with the phase-out of the blast furnace to meet steel demand.
 
-- The reduction in steel output by improving material efficiency does not contribute significantly to the reduction in greenhouse gas emissions in the POSCO. However, improving material efficiency reduces power generation and hydrogen production, which suggests that it is important to consider improving material efficiency in investment plans in the power and hydrogen production sectors to achieve carbon neutrality targets.
+- The reduction in steel output by improving material efficiency does not contribute significantly to the reduction in greenhouse gas emissions in the BOSCO. However, improving material efficiency reduces power generation and hydrogen production, which suggests that it is important to consider improving material efficiency in investment plans in the power and hydrogen production sectors to achieve carbon neutrality targets.
