@@ -42,10 +42,10 @@ Having access to more data, we will allow us to make sure that our model perform
 
 Our model analysis help clients identify the most cost-effective mitigation projects and strategies like described below.
 
-- To achieve the 2050 carbon neutrality, POSCO's steel sector emissions need to fall by 51% by 2030 and 98% by 2050. The Blast furnace was phased out and replaced by scrap and hydrogen-based DRI steel production.
+- In terms of POSCO's 2050 carbon neutrality, improvement in the indirect emission sector is needed to offset much of the direct emission of carbon dioxide remaining in the steel sector in 2050.
 
-- Coal contributes about 85% of the energy used in POSCO’s steel sector today. In the 2050 carbon neutrality scenario, this share drops to 40% in 2030. Coal is completely phased out of steel production in South Korea by 2050.
+- Electrification of the POSCO's energy use and the increase in the proportion of hydrogen energy consumption will play a key role in decarbonization in the POSCO. This means that mid- to long-term investments must be made to increase renewable energy generation and green hydrogen production in order to achieve carbon neutrality.
 
-- Our 2050 carbon neutrality scenario relies on a large scale up of renewables capacity: 56% of electricity production in 2030 is clean. In 2050, 100% of electricity production is clean. The 1.5°C scenario also shows an increase in hydrogen use, from 0.0 EJ in use today to 0.14 EJ in 2050. In the 2050 carbon neutrality scenario, 76% of hydrogen produced in POSCO is green and 23% is blue by 2050.
+- In order to decarbonize the POSCO that meets 2050 carbon neutrality, it is necessary to rapidly expand DRI-based electric furnace technology (DRI-EAF-H2 and DRI-EAF-CCS) equipped with hydrogen based DRI and CCS, and phase-out blast Furnace without CCS. In addition, it is inevitable to expand the scrap-based electric arc furnace (EAF-scrap) along with the phase-out of the blast furnace to meet steel demand.
 
-- As the world’s sixth largest steelmaker with ambitious climate commitments and policies at government and company level, POSCO is well positioned to help accelerate the steel sector transition.
+- The reduction in steel output by improving material efficiency does not contribute significantly to the reduction in greenhouse gas emissions in the POSCO. However, improving material efficiency reduces power generation and hydrogen production, which suggests that it is important to consider improving material efficiency in investment plans in the power and hydrogen production sectors to achieve carbon neutrality targets.
